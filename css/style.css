@@ -330,9 +330,9 @@ hr {
   padding: 3px 0px;
 }
 
-#skills ul > li:hover {
+/* #skills ul > li:hover {
   background: #f2f2f2;
-}
+} */
 
 #skills ul > li .ability-title {
   display: inline-block;
