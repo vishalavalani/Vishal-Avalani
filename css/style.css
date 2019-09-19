@@ -758,7 +758,7 @@ figure.effect:hover p {
 
 @media (min-width: 1280px) {
   .container {
-    width: 1280px;
+    /* width: 1280px; */
   }
 }
 /* 
